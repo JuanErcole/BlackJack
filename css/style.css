@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(20, 241, 0);
+}
+
+.header{
+    background-color: rgb(21, 90, 0);
+    padding: 1.5rem;
+    box-shadow: 0 5px 11px 0px rgb(0 0 0)
+}
+
+.titulo {
+    font-family: Verdana;
+    color: beige;
+}
+
+/*--------------------------------------*/
+
+.btn_new{
+    padding: 4px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: chocolate;
+    border: 1px black solid;
+}
+
+.btn_pedir{
+    padding: 4px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: blue;
+    border: 1px black solid;
+}
+
+.btn_stop{
+    padding: 4px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    border: 1px black solid;
+
+}
+
+.carta{
+    position: relative;
+    width: 100px;
+    left: 80px;
+    margin-left: -78px;
+}
+
+#cartaPlayer, #cartaBanca{
+    height: 250px;
+}
+
+
+
+
+
+
+
+
+
