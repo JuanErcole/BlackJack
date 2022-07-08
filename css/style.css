@@ -21,6 +21,10 @@ body{
 
 /*--------------------------------------*/
 
+h2{
+    color: rgb(0, 255, 85);
+}
+
 .btn_new{
     padding: 4px;
     border-radius: 10px;
